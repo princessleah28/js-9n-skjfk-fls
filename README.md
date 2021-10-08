@@ -1,2 +1,2 @@
-# js-9n-skjfk-fls
+Input, Output, Vaiables in Java 10c
 Our first steps on Java
